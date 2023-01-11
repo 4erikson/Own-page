@@ -1,0 +1,28 @@
+ul.main-menu {
+    padding-left: 0;
+}
+
+li.menu-item {
+    display: inline;
+}
+
+a.menu-link {
+    text-decoration: none;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+    color: black;
+}
+
+a.menu-link:hover {
+    opacity: 0.8;
+}
+
+section.first-part {
+    background-color: black;
+    background-image: url(123.jpg);
+    color:aliceblue;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+}
